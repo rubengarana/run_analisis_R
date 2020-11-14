@@ -1,0 +1,14 @@
+cada variable tiene codigos que lo definen:
+
+t: es el tiempo
+f: es la frecuencia
+accbody: es la aceleracion del cuerpo
+accgravity: la aceleracion de la gravedad
+x,y,z: son los ejes de donde se midio las magnitudes
+gyro: giroscopio
+mag: magnitud
+mean: valor medio
+std: desviacion estandar
+jerk: señales jerk
+
+un ejemplo de una variable tbodyacc-mean-() x, significa el tiempo medio de aceleracion del cuerpo conforme el eje x.
