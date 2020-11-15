@@ -12,3 +12,5 @@ std: desviacion estandar
 jerk: señales jerk
 
 un ejemplo de una variable tbodyacc-mean-() x, significa el tiempo medio de aceleracion del cuerpo conforme el eje x.
+activity: the activity of the exercise performed by the subject
+subject: the code for each individual who participated in the experiment
